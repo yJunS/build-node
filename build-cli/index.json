@@ -8,9 +8,10 @@
         "hideintro": true,
         "hidefinish": true,
         "showdashboards": true,
-        "uilayout": "editor-terminal"
+        "uilayout": "terminal-iframe"
       },
       "backend": {
-        "imageid": "docker-swarm"
+        "imageid": "docker-swarm",
+        "port": 8080
       }
 }
