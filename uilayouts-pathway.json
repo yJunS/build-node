@@ -38,6 +38,12 @@
         "description": "Learn how to add the Visualise Tab",
         "pathway_id": "scenario-examples",
         "course_id": "visualise-docker"
+      },
+      {
+        "title": "node-cli",
+        "description": "Learn how to build the node",
+        "pathway_id": "build-cli",
+        "course_id": "visualise-docker"
       }
     ]
   }
