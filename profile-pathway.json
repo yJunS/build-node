@@ -1,9 +1,9 @@
 {
     "courses": [
       {
-        "title": "Learn how to use jcli",
-        "description": "Learn how to use jcli",
-        "id": "build-cli"
+        "title": "Learn how to use jenkins build nodejs",
+        "description": "jenkins build nodejs env",
+        "id": "build-jenkins-node"
       }
     ]
   }

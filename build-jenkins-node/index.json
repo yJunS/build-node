@@ -1,6 +1,6 @@
 {
-    "title": "Creating Your First Katacoda Scenario",
-    "description": "Learn how to create your first Katacoda scenario",
+    "title": "自动构建一个nodejs",
+    "description": "了解如何自动化构建nodejs",
     "files": [
         "app.js", "index.js"
     ],
